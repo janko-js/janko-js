@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @janko-js
+- Hi, I’m @janko-js
 
 <!---
 - 👀 I’m interested in ...
