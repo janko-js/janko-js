@@ -10,5 +10,4 @@ janko-js/janko-js is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<a rel="me" href="https://medibubble.org/@janko_js">Mastodon</a>
 
